@@ -1,0 +1,23 @@
+{
+  "name": "softwareinnovativesolutionsblog",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sl1nd0/SoftwareInnovativeSolutionsBlog.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sl1nd0/SoftwareInnovativeSolutionsBlog/issues"
+  },
+  "homepage": "https://github.com/Sl1nd0/SoftwareInnovativeSolutionsBlog#readme",
+  "dependencies": {
+    "bootstrap": "^4.6.0",
+    "jquery": "^3.7.1"
+  }
+}
